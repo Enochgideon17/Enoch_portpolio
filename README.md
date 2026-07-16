@@ -6,7 +6,7 @@ A modern, responsive, and recruiter-focused personal portfolio website showcasin
 
 Add your deployed portfolio link here:
 
-[https://your-portfolio-link.com](https://enoch-portpolio.vercel.app/)
+(https://enoch-portpolio.vercel.app/)
 
 ---
 
